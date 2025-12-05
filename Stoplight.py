@@ -4,6 +4,7 @@ from tkmacosx import Button
 
 # Create the main window
 root = Tk()
+root.title("stoplight window")
 
 #Set size of window
 root.geometry("300x150")
